@@ -17,5 +17,17 @@
         "hardware",
         "node.js",
         "startups"
-    ]
+    ],
+    "meetingPreferences": {
+        "zipcode": 63103,
+        "maxDistance": 5,
+        "coffee": null,
+        "beer": true,
+        "lunch": true,
+        "dinner": true,
+        "office": true,
+        "weekdays": true,
+        "weekends": false,
+        "times": []
+    }
 }
