@@ -1,0 +1,21 @@
+{
+    "name": "Keith Chester",
+    "descriptionTitle": "Developer/Engineer/Roboticist/Maker",
+    "gender": "male",
+    "minority": false,
+    "description": "A Robotics Engineer turned software developer, Keith is head of R&D @ Fusion Marketing. There he oversees projects from websites to robotic art installations and more. He's the organizer for [node.jSTL](https://www.meetup.com/node-jSTL/) and [jSTL](https://www.meetup.com/jstl-meetup/). He's always open for talking about tech!",
+    "contact": {
+        "email": "kchester@gmail.com",
+        "phone": "908.955.3484",
+        "twitter": "thekeithchester",
+        "stlTechSlack": "keithchester"
+    },
+    "github": "hlfshell",
+    "site": null,
+    "pictureURL": "",
+    "topics": [
+        "hardware",
+        "node.js",
+        "startups"
+    ]
+}

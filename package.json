@@ -1,0 +1,22 @@
+{
+  "name": "arch-connect",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "authors": [
+    {
+      "name": "Keith Chester",
+      "email": "kchester@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.4.0",
+    "express": "^4.15.2",
+    "pug": "^2.0.0-rc.1",
+    "walk": "^2.3.9"
+  }
+}
